@@ -1,2 +1,2 @@
-# RiskAssesment
-A simple risk game
+# Risk
+Risk Game
